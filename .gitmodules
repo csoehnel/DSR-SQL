@@ -1,0 +1,3 @@
+[submodule "db/dvdrental"]
+	path = db/dvdrental
+	url = https://github.com/robconery/dvdrental.git
